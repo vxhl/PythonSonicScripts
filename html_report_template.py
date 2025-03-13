@@ -1,5 +1,4 @@
-
-html_report_template = f"""<!DOCTYPE html>
+f"""<!DOCTYPE html>
 <html>
 <head>
   <meta charset="UTF-8">
